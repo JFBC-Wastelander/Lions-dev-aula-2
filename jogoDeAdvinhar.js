@@ -54,3 +54,6 @@ rl.on('close', () => {
   console.log('Fim de jogo.');
   process.exit(0);
 });
+
+
+// Testando a diferença entre fork e clone.
