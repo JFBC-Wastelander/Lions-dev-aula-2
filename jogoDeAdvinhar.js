@@ -38,7 +38,7 @@ rl.on('line', (input) => {
 
     // O comando acima seria o meso que:
     if (palpite < numeroSecreto) {
-      console.log('Muito baixo!');
+      console.log('Muito baixoo!');
      }
     if (palpite > numeroSecreto) {
       console.log('Muito alto!');
