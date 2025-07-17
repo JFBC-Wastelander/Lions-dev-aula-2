@@ -5,7 +5,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-console.log("=== Calculadora Simples ===");
+console.log("=== Super Calculadora ===");
 
 rl.question("Operação (+, -, *, /): ", (operation) => {
   rl.question("Primeiro número: ", (input1) => {
